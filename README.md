@@ -12,7 +12,7 @@ It allows two players to take turns and compete against each other to win the ga
 
 ## Screenshots
 
-![Game SS](https://github.com/Alliyan732/Tic-Tac-Toe-Android-Studio/assets/95461559/678a4aba-4a9c-455d-a29a-dd7e1c72739b)
+![Game SS](https://github.com/Alliyan732/Tic-Tac-Toe-Android-Studio/assets/95461559/0efc0096-62a5-4054-812b-f55de91808e1)
 
 ## Prerequisites
 
