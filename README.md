@@ -52,7 +52,9 @@ Contributions to the Tic Tac Toe game project are welcome! If you have any ideas
 
 ## License
 
---
+[MIT License](LICENSE)
+
+The Tic Tac Toe game is open-source and released under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
