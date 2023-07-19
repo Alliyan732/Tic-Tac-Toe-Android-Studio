@@ -62,5 +62,8 @@ The Tic Tac Toe game is open-source and released under the MIT License. You are 
 
 ## Contact
 
-- Alliyan732@gmail.com
+If you have any questions, suggestions, or feedback, please contact:
+
+- Email: alliyan732@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alliyan-alvi/
 
